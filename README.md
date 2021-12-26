@@ -6,6 +6,11 @@
     Example UML for Factory Pattern:
     ![factory_design_pattern](./thumbnails/FactoryDesignPattern.png)
 
+
+2. [Abstract Factory Design Pattern](./abstract_factory_design_pattern)  
+    Example UML for Abstract Factory Pattern:
+    ![abstract_factory_design_patter](./thumbnails/AbstractFactoryDesignPattern.png)
+
 ## Behavioural Design Patterns
 
 1. [Strategy Design Pattern](./strategy_design_pattern)  
