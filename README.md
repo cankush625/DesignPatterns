@@ -3,13 +3,21 @@
 ## Creational Design Pattern
 
 1. [Factory Design Pattern](./factory_design_pattern)  
-    Example UML for Factory Pattern:
+    Example UML for Factory Pattern:  
     ![factory_design_pattern](./thumbnails/FactoryDesignPattern.png)
 
 
 2. [Abstract Factory Design Pattern](./abstract_factory_design_pattern)  
-    Example UML for Abstract Factory Pattern:
-    ![abstract_factory_design_patter](./thumbnails/AbstractFactoryDesignPattern.png)
+    Example UML for Abstract Factory Pattern:  
+    ![abstract_factory_design_pattern](./thumbnails/AbstractFactoryDesignPattern.png)
+
+
+3. [Singleton Design Pattern](./singleton_design_pattern)  
+    - Use this pattern when there must be exactly one instance of a class, and 
+    it must be accessible globally.
+    - When the sole instance should be extensible by subclassing it.  
+    Example UML for Singleton Design Pattern:  
+    ![singleton_design_pattern](./thumbnails/SingletonDesignPattern.png)
 
 ## Behavioural Design Patterns
 
@@ -24,5 +32,5 @@
     data access logic. Using Repository Design Pattern, the business logic
     layer of your application need not have any knowledge on how data 
     persistence happens beneath.  
-    Example UML for Repository Pattern:
+    Example UML for Repository Pattern:  
     ![repository_design_pattern](./thumbnails/RepositoryDesignPattern.png)
