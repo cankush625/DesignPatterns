@@ -1,4 +1,4 @@
-# Design Patterns in Go
+# Design Patterns in Go and Java
 
 ## Creational Design Pattern
 
