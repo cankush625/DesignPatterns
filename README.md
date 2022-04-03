@@ -19,6 +19,17 @@
     Example UML for Singleton Design Pattern:  
     ![singleton_design_pattern](./thumbnails/SingletonDesignPattern.png)
 
+4. [Builder Design Pattern](./builder_design_pattern)  
+
+5. [Prototype Design Pattern](./prototype_design_pattern)  
+
+6. [Object Pool Design Pattern](./object_pool_design_pattern)  
+    - Use this pattern when the cost of object creation is high and the number of
+    objects required at a time are low.
+    - For example, the database connection object.  
+   Example UML for Object Pool Design Pattern:  
+   ![object_pool_design_pattern](./thumbnails/ObjectPoolDesignPattern.png)
+
 ## Behavioural Design Patterns
 
 1. [Strategy Design Pattern](./strategy_design_pattern)  
