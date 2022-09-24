@@ -30,6 +30,16 @@
    Example UML for Object Pool Design Pattern:  
    ![object_pool_design_pattern](./thumbnails/ObjectPoolDesignPattern.png)
 
+
+## Structural Design Patterns
+
+1. [Adapter Design Pattern](./adapter_design_pattern)  
+    - Convert the interface of a class into another interface clients expect.
+    - Adapter lets classes work together that couldn't otherwise because of 
+    incompatible interfaces.
+    Example UML for Adapter Pattern:  
+    ![adapter_design_pattern](./thumbnails/AdapterDesignPattern.png)
+
 ## Behavioural Design Patterns
 
 1. [Strategy Design Pattern](./strategy_design_pattern)  
