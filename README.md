@@ -40,6 +40,15 @@
     Example UML for Adapter Pattern:  
     ![adapter_design_pattern](./thumbnails/AdapterDesignPattern.png)
 
+
+2. [Decorator Design Pattern](./decorator_design_pattern)
+    - Use this pattern to attach additional responsibilities to an individual
+    objects dynamically and transparently, that is, without affecting other
+    objects.
+    - Use for responsibilities that can be withdrawn.
+    - Use when extension by subclassing is impossible.
+    ![decorator_design_pattern](./thumbnails/DecoratorDesignPattern.png)
+
 ## Behavioural Design Patterns
 
 1. [Strategy Design Pattern](./strategy_design_pattern)  
