@@ -36,7 +36,7 @@
 1. [Adapter Design Pattern](./adapter_design_pattern)  
     - Convert the interface of a class into another interface clients expect.
     - Adapter lets classes work together that couldn't otherwise because of 
-    incompatible interfaces.
+    incompatible interfaces.  
     Example UML for Adapter Pattern:  
     ![adapter_design_pattern](./thumbnails/AdapterDesignPattern.png)
 
@@ -46,8 +46,24 @@
     objects dynamically and transparently, that is, without affecting other
     objects.
     - Use for responsibilities that can be withdrawn.
-    - Use when extension by subclassing is impossible.
+    - Use when extension by subclassing is impossible.  
+    Example UML for Decorator Pattern:  
     ![decorator_design_pattern](./thumbnails/DecoratorDesignPattern.png)
+
+
+3. [Bridge Design Patter](./bridge_design_pattern)
+    - Use this pattern when we want to avoid a permanent binding between an 
+    abstraction, and it's implementation. This might be the case, for example,
+    when the implementation must be selected or switched at run-time.
+    - Both abstractions and their implementations should be extensible by
+    subclassing them independently. We can combine abstractions and implementations
+    and extend them independently.
+    - Changes in the implementation of an abstraction should have no impact
+    on client; that is, their code should not have to be recompiled.
+    - We want to share an implementation among multiple objects (perhaps using 
+    reference counting), and this fact should be hidden from the client.  
+    Example UML for Bridge Pattern:  
+    ![bridge_design_pattern](./thumbnails/BridgeDesignPattern.png)
 
 ## Behavioural Design Patterns
 
