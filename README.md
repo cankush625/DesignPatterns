@@ -51,7 +51,7 @@
     ![decorator_design_pattern](./thumbnails/DecoratorDesignPattern.png)
 
 
-3. [Bridge Design Patter](./bridge_design_pattern)
+3. [Bridge Design Pattern](./bridge_design_pattern)
     - Use this pattern when we want to avoid a permanent binding between an 
     abstraction, and it's implementation. This might be the case, for example,
     when the implementation must be selected or switched at run-time.
@@ -64,6 +64,17 @@
     reference counting), and this fact should be hidden from the client.  
     Example UML for Bridge Pattern:  
     ![bridge_design_pattern](./thumbnails/BridgeDesignPattern.png)
+
+
+4. [Composite Design Pattern](./composite_design_pattern)
+    - Use this pattern we want to represent part-whole hierarchies of objects.
+    - We want clients to be able to ignore the difference between compositions of
+    objects and individual objects. Clients will treat all objects in the
+    composite structure uniformly.
+    - This pattern is useful when we want to represent structures like hierarchy
+    (user hierarchy, role hierarchy), file system/directory structure, etc.  
+    Example UML for Composite Pattern:
+    ![composite_design_pattern](./thumbnails/CompositeDesignPattern.png)
 
 ## Behavioural Design Patterns
 
