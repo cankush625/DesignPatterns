@@ -6,7 +6,7 @@ Composite lets clients treat individual objects and compositions of objects
 uniformly.
 
 ## When to use
-- Use this pattern we want to represent part-whole hierarchies of objects.
+- Use this pattern when we want to represent part-whole hierarchies of objects.
 - We want clients to be able to ignore the difference between compositions of
   objects and individual objects. Clients will treat all objects in the
   composite structure uniformly.
