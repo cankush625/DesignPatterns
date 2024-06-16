@@ -12,3 +12,8 @@ uniformly.
   composite structure uniformly.
 - This pattern is useful when we want to represent structures like hierarchy
   (user hierarchy, role hierarchy), file system/directory structure, etc.
+
+## Structure
+Example UML for Composite Pattern:
+
+![composite_design_pattern](../thumbnails/CompositeDesignPattern.png)
