@@ -76,6 +76,15 @@
     Example UML for Composite Pattern:
     ![composite_design_pattern](./thumbnails/CompositeDesignPattern.png)
 
+
+5. [Facade Design Pattern](./facade_design_pattern)
+    - Use this pattern when we want to provide a simple interface to a complex
+    subsystem.
+    - Facade defines a higher-level interface that makes the subsystem easier to
+    use.  
+    Example UML for Facade Pattern:  
+    ![facade_design_pattern](./thumbnails/FacadeDesignPattern.png)
+
 ## Behavioural Design Patterns
 
 1. [Strategy Design Pattern](./strategy_design_pattern)  
