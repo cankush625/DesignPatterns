@@ -20,6 +20,13 @@
     ![singleton_design_pattern](./thumbnails/SingletonDesignPattern.png)
 
 4. [Builder Design Pattern](./builder_design_pattern)  
+    - Use this pattern when we want to construct complex objects using simple
+    objects and using a step-by-step approach.
+    - Use this pattern when have classes with optional properties and creation 
+    of objects is complex.
+    - Builder lets you construct complex objects step by step.  
+    Example UML for Builder Design Pattern:  
+    ![builder_design_pattern](./thumbnails/BuilderDesignPattern.png) 
 
 5. [Prototype Design Pattern](./prototype_design_pattern)  
 
